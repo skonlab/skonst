@@ -1,4 +1,7 @@
-.sass-cache/
-*.css.map
-*.sass.map
-*.scss.map
+# Created by https://www.toptal.com/developers/gitignore/api/stylus
+# Edit at https://www.toptal.com/developers/gitignore?templates=stylus
+
+### Stylus ###
+*.css
+
+# End of https://www.toptal.com/developers/gitignore/api/stylus
